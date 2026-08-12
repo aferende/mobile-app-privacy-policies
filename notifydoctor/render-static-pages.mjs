@@ -22,7 +22,7 @@ for (const locale of locales) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>${escapeHtml(t.title)}</title>
-  <link rel="stylesheet" href="../../../privacy.css">
+  <link rel="stylesheet" href="../../privacy.css">
   <link rel="canonical" href="${base}/${locale}/privacy/">
   ${alternates}
   <link rel="alternate" hreflang="x-default" href="${base}/en/privacy/">
